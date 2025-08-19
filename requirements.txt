@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain_community
+pypdf
+chromadb
+langchain-google-genai
+langchain-chroma
+langgraph
+streamlit
+pydantic
+tavily-python
+arxiv
+boto3
+streamlit
